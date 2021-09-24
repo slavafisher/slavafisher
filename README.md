@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slavafisher
+- 👋 Hi, I’m Yaroslav Rybak
 - 👀 I’m interested in taking new experience in IT.
 - 🌱 I’m currently learning Angular.
 - 📫 How to reach me randomnuy@gmail.com
